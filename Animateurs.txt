@@ -1,0 +1,5 @@
+								 Liste des animateurs
+
+CIN: 12365487		 Nom: Zaghdoudi		 Prénom: Ahmed		 Téléphone: 24156874		 Père: Bechir		 Date Naissance: 1997-09-20		 Adresse: 27 Rue Jedid Zouhour 4704 Monastir
+CIN: 12412451		 Nom: Ammar		 Prénom: Tasnim		 Téléphone: 52158145		 Père: Ahmed		 Date Naissance: 1997-04-07		 Adresse: 17 Rue Yasser Arafet sahloul 4011 Sousse
+CIN: 12838405		 Nom: Chaker		 Prénom: Hassen		 Téléphone: 92725729		 Père: Othman		 Date Naissance: 1997-03-26		 Adresse: 7 Rue Ibn ghazi Khzema Est 4050 Sousse
